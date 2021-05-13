@@ -1,0 +1,11 @@
+.map{
+    display: flex;
+    justify-content: center;
+    margin: 30px 30px 30px 30px;
+}
+.ReactMapGL{
+    height: 20px;
+}
+.SearchByCar{
+    margin-left: 40px;
+}

@@ -1,0 +1,12 @@
+.serviceCard{
+    background-color: rgb(240, 233, 243);
+    /* background-image: url("https://img.cinemablend.com/filter:scale/quill/f/9/1/9/e/b/f919eb38f0a9c8a7be7940fa6692d35a29acf773.jpg?mw=600"); */
+    display: flex;
+    flex-direction: row;
+    padding: 150px 10px 50px 10px;
+    justify-content: space-around;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
